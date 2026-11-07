@@ -12,13 +12,13 @@ I build products and do some quantitative research. Most of the code is private,
 
 A private iOS assistant built to work with wearables. It's a SwiftUI app, a TypeScript API, firmware for an ESP32-S3 camera, and an integration with Even G2 smart glasses. Still in development.
 
-<img src="assets/tinyrice-presets.png" alt="Tiny Rice presets screen in the iOS simulator" width="260">
+<img src="assets/card-tinyrice.png" alt="Tiny Rice home and presets screens in the iOS simulator" width="720">
 
 ### Andromeda
 
 A learning app for technical subjects. Each idea gets a short explanation, an interactive lab to play with, and practice, and every course maps onto one shared concept graph so the same idea isn't taught twice. One React/TypeScript codebase for web, desktop (Tauri) and mobile (Capacitor).
 
-<img src="assets/andromeda-explore.png" alt="Andromeda course gallery" width="640">
+<img src="assets/card-andromeda.png" alt="Andromeda course gallery" width="720">
 
 <img src="assets/andromeda-lab.png" alt="Andromeda interactive lesson on the area of a circle" width="640">
 
@@ -26,7 +26,7 @@ A learning app for technical subjects. Each idea gets a short explanation, an in
 
 An offline-first Quran reader and memorization app built with Expo and React Native. It has the full 604-page mushaf, search, daily reading plans, spaced revision, prayer times and qibla. Accepted into McGill's Dobson Lean Startup Program.
 
-<img src="assets/jawhar-today-simulator.png" alt="Jawhar today screen" width="260"> <img src="assets/jawhar-memorize-simulator.png" alt="Jawhar memorization screen" width="260">
+<img src="assets/card-jawhar.png" alt="Jawhar today and memorization screens in the iOS simulator" width="720">
 
 <sub>Simulator captures from an unreleased build.</sub>
 
